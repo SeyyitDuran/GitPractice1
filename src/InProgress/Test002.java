@@ -1,4 +1,4 @@
-package inProgress;
+package InProgress;
 
 public class Test002 {
 

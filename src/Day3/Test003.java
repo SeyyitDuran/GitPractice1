@@ -1,4 +1,4 @@
-package day3;
+package Day3;
 
 public class Test003 {
 }
